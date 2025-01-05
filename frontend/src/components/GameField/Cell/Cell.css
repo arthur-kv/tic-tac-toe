@@ -1,0 +1,5 @@
+.cell {
+  border-radius: 4px;
+  font-size: calc(10vmin - 0.2rem);
+  aspect-ratio: 1;
+}
